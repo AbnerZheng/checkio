@@ -16,6 +16,9 @@ def checkio(data):
             result[j].append(c)
     return result
 
+#someone else
+def checkio2(matr):
+    return [list(i) for i in zip(*matr)]
 
 
 
