@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52fec986-0d8d-4df1-aaef-7be1187ddcf2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/flatten-dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IceBase/funny-adding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IceBase/gcd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/i_love_python.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/min_max.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/most-wanted-letter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/pawn-brotherhood.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/prime_palindrome_golf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IceBase/simple-areas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/speechmodule.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/x-o-referee.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\brackets.py" afterPath="$PROJECT_DIR$/electronicStation/brackets.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\feed_pigeons.py" afterPath="$PROJECT_DIR$/home/feed_pigeons.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\hamming_distance2.py" afterPath="$PROJECT_DIR$/electronicStation/hamming_distance2.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\letter_queue.py" afterPath="$PROJECT_DIR$/electronicStation/letter_queue.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\resticted_sum.py" afterPath="$PROJECT_DIR$/electronicStation/resticted_sum.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\roman-numerals.py" afterPath="$PROJECT_DIR$/home/roman-numerals.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\week_point.py" afterPath="$PROJECT_DIR$/electronicStation/week_point.py" />
-      <change type="MOVED" beforePath="C:\Users\璐\PycharmProjects\checkio\weekend_counter.py" afterPath="$PROJECT_DIR$/home/weekend_counter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="checkio.iws" />
@@ -93,7 +74,7 @@
       <file leaf-file-name="pawn-brotherhood.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/pawn-brotherhood.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18564357" vertical-offset="0" max-vertical-offset="650">
+            <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="650">
               <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
             </state>
@@ -137,10 +118,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="128" />
+    <option name="y" value="144" />
+    <option name="width" value="819" />
+    <option name="height" value="484" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -195,6 +176,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -518,6 +500,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="52fec986-0d8d-4df1-aaef-7be1187ddcf2" name="Default" comment="" />
@@ -537,28 +522,34 @@
       <option name="project" value="LOCAL" />
       <updated>1423726614861</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some other code">
+      <created>1423877630470</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1423877630470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="128" y="144" width="819" height="484" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27450982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27450982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8783988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="1.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4194631" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -955,7 +946,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/pawn-brotherhood.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18564357" vertical-offset="0" max-vertical-offset="650">
+        <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="650">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
