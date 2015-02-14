@@ -1,16 +1,40 @@
 __author__ = '璐'
+
+# veky has post a great solution for this:
+# min, max = (lambda *args, key=None, r=r: sorted(args[0] if len(args) == 1
+#     else args, key=key, reverse=r)[0] for r in range(2))
+
+
 def min(*args, **kwargs):
     key = kwargs.get("key", lambda x:x)
-    if len(args)>1:
-        return [key(e) for e in list(args)].sort()[0]
-    else:
-        return [key(e) for e in args[0]].sort()[0]
+    if len(args)==1:
+       args = args[0]
+    flag = False
+    for e in args:
+        if(not flag):
+            result = e
+            flag = True
+        else:
+            if key(e) < key(result):
+                result = e
+    return result
 
 
 
 
 def max(*args, **kwargs):
-    key = kwargs.get("key", None)
+    key = kwargs.get("key", lambda x:x)
+    if len(args)==1:
+       args = args[0]
+    flag = False
+    for e in args:
+        if(not flag):
+            result = e
+            flag = True
+        else:
+            if key(e) > key(result):
+                result = e
+    return result
 
 
 if __name__ == '__main__':
